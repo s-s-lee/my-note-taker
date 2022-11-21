@@ -53,7 +53,7 @@ and then follow the link to see how it looks in your web browser
 
 ## Tech used
 
-* Express
+* Express.js
 * [uuid](https://www.npmjs.com/package/uuid) - npm
 * [Heroku](https://www.heroku.com/) to deploy the site
 
