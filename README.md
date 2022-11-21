@@ -4,11 +4,13 @@
 
 My Note Taker is an app that you can use to easily create, save, and delete notes. 
 
-## Preview
+## Site Preview
 
-image here
+https://s-s-lee-my-note-taker.herokuapp.com/
 
-Deployed here
+<img alt="screenshot of My Note Taker website" src="public/assets/images/my-note-taker-screenshot.png" width="80%" />
+
+<img alt="screenshot after saving one note" src="public/assets/images/notes-page-screenshot-1.png" width="80%" />
 
 ## User Story
 
@@ -53,14 +55,15 @@ and then follow the link to see how it looks in your web browser
 
 ## Tech used
 
+* Node.js
 * Express.js
 * [uuid](https://www.npmjs.com/package/uuid) - npm
 * [Heroku](https://www.heroku.com/) to deploy the site
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/s-s-lee/my-note-taker/blob/main/LICENSE).
 
 ## Contact
 
-Susan for any questions.
+Contact [Susan](https://github.com/s-s-lee) if you have any questions.
