@@ -6,11 +6,11 @@ My Note Taker is an app that you can use to easily create, save, and delete note
 
 ## Site Preview
 
+https://s-s-lee-my-note-taker.herokuapp.com/
+
 <img alt="screenshot of My Note Taker website" src="public/assets/images/my-note-taker-screenshot.png" width="80%" />
 
 <img alt="screenshot after saving one note" src="public/assets/images/notes-page-screenshot-1.png" width="80%" />
-
-Deployed here
 
 ## User Story
 
@@ -66,4 +66,4 @@ This project is licensed under the [MIT License](https://github.com/s-s-lee/my-n
 
 ## Contact
 
-Contact [Susan](https://github.com/s-s-lee) for any questions.
+Contact [Susan](https://github.com/s-s-lee) if you have any questions.
